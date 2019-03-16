@@ -4657,21 +4657,11 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 }
 
 .header-search-form {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: flex;
   margin-bottom: 0px;
   width: 100%;
   max-width: 100%;
   display: flex;
-  border: 1px solid;
   border-color: rgba(127, 127, 127, 0.2);
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12) inset;
-  border-radius: 2px;
-  background-color: #fff;
-  height: 2.4em;
-  line-height: 2.4em;
-  overflow: hidden;
 }
 .header-search-form label {
   -webkit-flex-basis: 100%;
@@ -4686,7 +4676,6 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   border-style: none;
 }
 .header-search-form .search-field {
-  border-color: transparent;
   height: auto;
   background-color: transparent;
   border: 0;
