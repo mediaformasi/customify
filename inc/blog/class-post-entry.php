@@ -535,7 +535,7 @@ class Customify_Post_Entry {
 	function post_content() {
 
 		?>
-		<div class="entry-content entry--item">
+		<div class="entry-content entry--item okinawa">
 			<?php
 			the_content();
 			$this->post_pagination();
